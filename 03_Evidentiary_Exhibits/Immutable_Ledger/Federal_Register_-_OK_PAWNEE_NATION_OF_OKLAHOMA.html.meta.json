@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=OK+PAWNEE+NATION+OF+OKLAHOMA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=OK+PAWNEE+NATION+OF+OKLAHOMA",
+  "title": "Federal Register - OK PAWNEE NATION OF OKLAHOMA",
+  "fetched_at": "2026-11-23T18:11:19.609856Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 254323,
+  "sha256": "c05a730c5f311b5281447b80c845d79cf3ed39e6e980a863d8195d978bcf222d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
